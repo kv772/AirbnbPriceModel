@@ -2,7 +2,7 @@
 
 This project predicts **Airbnb listing prices** using a **neural network regression model**, similar to Zillow’s Zestimate. It helps hosts set more accurate and competitive pricing.
 
-## 📊 Problem Overview
+## Problem Overview
 
 - **Type**: Supervised learning (Regression)
 - **Target**: `price`
